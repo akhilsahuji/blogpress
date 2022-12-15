@@ -11,7 +11,9 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "build": "vitepress build --output public"
+
   },
   "devDependencies": {
     "postcss-jit-props": "^1.0.8"
