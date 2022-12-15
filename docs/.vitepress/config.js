@@ -2,7 +2,7 @@ export default {
   title: 'akhil.',
   description: 'Just playing around.',
   themeConfig: {
-    logo:'/public/akhil.logo.svg',
+    logo:'/akhil.logo.svg',
     siteTitle:false,
     
     socialLinks: [
