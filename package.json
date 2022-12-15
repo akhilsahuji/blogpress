@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.2",
+    "open-props": "^1.5.1",
+    "postcss": "^8.4.20",
+    "postcss-normalize": "^10.0.1",
+    "vitepress": "^1.0.0-alpha.30",
+    "vue": "^3.2.45"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "postcss-jit-props": "^1.0.8"
+  }
+}
