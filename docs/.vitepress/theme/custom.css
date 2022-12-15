@@ -129,4 +129,11 @@
   color: var(--orange-6);
 }
 
+.VPImage.logo{  
+    width: var(--size-10);
+    height: inherit;
+}
+.VPLink.link.VPNavBarMenuLink{
+  font-size: var(--font-size-4);
+}
 
