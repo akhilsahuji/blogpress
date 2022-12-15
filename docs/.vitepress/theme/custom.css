@@ -137,4 +137,8 @@
 .VPLink.link.VPNavBarMenuLink{
   font-size: var(--font-size-fluid-1);
 }
+.VPImage.image-src{
+
+  border-radius: var(--radius-blob-5);
+}
 
