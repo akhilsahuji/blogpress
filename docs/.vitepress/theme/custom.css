@@ -128,18 +128,5 @@
 :where(h1,h2,h3,h4,h5,h6,dt) {
   color: var(--orange-6);
 }
-[data-v-55e263fd] .logo {
-  margin-right: 100px;
-  height: 34px;
-}
 
-.VPNavBarMenuLink[data-v-094e56d3] {
-  display: flex;
-  align-items: center;
-  padding: 0 12px;
-  line-height: var(--vp-nav-height-mobile);
-  font-size: var(--font-size-3);
-  font-weight: 500;
-  color: var(--vp-c-text-1);
-  transition: color 0.25s;
-}
+
