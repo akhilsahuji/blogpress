@@ -133,6 +133,9 @@
     width: var(--size-10);
     height: inherit;
     animation: var(--animation-pulse);
+    animation-duration: 60s;
+  
+
 }
 .VPLink.link.VPNavBarMenuLink{
   font-size: var(--font-size-fluid-1);
