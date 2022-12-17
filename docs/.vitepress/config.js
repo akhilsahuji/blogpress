@@ -15,7 +15,7 @@ export default {
 
     nav: [
       { text: 'blogs.', link: '/articles/index' },
-      {text: 'projects.', link: '#'}
+      
     ],
     
     
