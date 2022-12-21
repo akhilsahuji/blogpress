@@ -142,6 +142,6 @@
 }
 .VPImage.image-src{
 
-  border-radius: var(--radius-blob-5);
+  border-radius: var(--radius-round);
 }
 

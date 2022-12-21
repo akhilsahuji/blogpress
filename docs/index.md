@@ -11,6 +11,6 @@ hero:
         I'm akhil.
   text: I am an open source enthusiast and tinkerer.
   image: 
-     src: '/ME1.jpg'
+     src: '/ME2.jpg'
   tagline: I endeavor to build simple, powerful, and performant software.
 ---
